@@ -1,5 +1,5 @@
 # attachment
-The attachment structure stores current information about a mail attachment, which was downloaded with the `mail.` commands and stored in the `attachments` field of the [mail](MailStructure.md) structure. It contains the following fields:
+The attachment structure stores current information about a mail attachment, which was downloaded with the `mail.` commands and stored in the `attachments` field of the [mail](https://manual.g1ant.com/link/G1ANT.Language/G1ANT.Language/Structures/MailStructure.md) structure. It contains the following fields:
 
 | Field  | Type | Description                                                  |
 | ------ | ---- | ------------------------------------------------------------ |

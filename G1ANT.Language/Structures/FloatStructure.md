@@ -21,7 +21,7 @@ dialog ♥price
 
 This is useful when you are assigning, for example, a list with prices to a variable, and some of them might be integers like 399,459 and others may be float numbers like 399.99. If you force the type to `⟦float⟧`, then G1ANT.Robot will be aware that prices may not be integers. If you force the type to `⟦integer⟧`, G1ANT.Robot will ignore floats and round numbers to integers.
 
-You can also force a whole [list](ListStructure.md) structure to have all of its elements as floats:
+You can also force a whole [list](https://manual.g1ant.com/link/G1ANT.Language/G1ANT.Language/Structures/ListStructure.md) structure to have all of its elements as floats:
 
 ```G1ANT
 ♥price_list = ⟦list:float⟧399.99❚19❚458.59❚199
