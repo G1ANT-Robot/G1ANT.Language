@@ -1,5 +1,5 @@
 # mail
-This structure stores current information about a mail message, which was downloaded with the [`mail.imap`](https://manual.g1ant.com/link/G1ANT.Addon/G1ANT.Addon.Net/G1ANT.Addon.Net/Commands/MailImapCommand.md) command. The mail structure contains several fields such as:
+This structure stores current information about a mail message, which was downloaded with the [`mail.imap`](https://manual.g1ant.com/link/G1ANT.Addon.Net/G1ANT.Addon.Net/Commands/MailImapCommand.md) command. The mail structure contains several fields such as:
 
 | Field | Type| Description |
 | -------- |------ | ---- |
