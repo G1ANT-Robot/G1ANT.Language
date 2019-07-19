@@ -12,7 +12,7 @@ This structure stores current information about a mail message, which was downlo
 |`content`|text| Content of the message |
 |`date`|text| Date of the message |
 |`priority`|integer| Priority of the message |
-|`attachments`|list| Returns a list of elements of the [attachment](https://manual.g1ant.com/link/G1ANT.Language/G1ANT.Language/Structures/attachmentstructure.md) structure allowing to manage attachments |
+|`attachments`|list| Returns a list of elements of the [attachment](https://manual.g1ant.com/link/G1ANT.Language/G1ANT.Language/Structures/AttachmentStructure.md) structure allowing to manage attachments |
 |`isreply`|bool| Is the message a reply |
 
 ## Example
